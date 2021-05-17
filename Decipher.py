@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 10 14:23:14 2020
 Lasted Edited on 11/14/20
-@author: Dalia Wadsworth
+@author: Dalia 
 """
 
 #This function ciphers the string given by the user
