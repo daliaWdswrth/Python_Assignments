@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue May 11 2021
-CS 87B
-@author: Dalia Wadsworth
+@author: Dalia 
 """
 
 
